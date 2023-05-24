@@ -24,4 +24,4 @@ Telefone: Formato internacional; Formato local; País; Cidade/Estado; Operadora;
 
 apt update && apt upgrade apt instala python pkg install git git clone https://github.com/Kratosy/Puxar-Dados-Termux ls cd snuking python install.py python consulta.py
 
-© Kratosy, 2021
+© Noutz, 2021
