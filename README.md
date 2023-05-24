@@ -1,6 +1,6 @@
 # ꧁ঔৣ☬ 𝕹𝕺𝖀𝕿𝖅 ☬ঔৣ꧂
 
-Copyright (c) 2021 Kratosy.
+Copyright (c) 2021 Noutz.
 
 [+] Descrição: Kratosy, a ferramenta para consulta, trata-se de um sistema avançado, em Python, que ”puxa" dados de: IP, nome, CPF, CEP, CNPJ, placa e telefone.
 
